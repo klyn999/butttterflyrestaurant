@@ -1,0 +1,11 @@
+*
+button{
+    width: 10%;
+    position: left;
+    border: none;
+    border-radius: 10px;
+    background-color: #45c924;
+    padding: 7px 25px;
+    cursor: pointer;
+    color: white;
+}
